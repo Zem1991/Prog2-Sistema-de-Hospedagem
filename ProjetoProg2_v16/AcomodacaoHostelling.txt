@@ -1,0 +1,33 @@
+﻿Hostelling Pantera
+50.0
+1
+2
+Curitiba
+3
+Em reforma.
+0
+0
+*** RESERVADO PARA DISPONIBILIDADES ***
+//
+Siegfried Hostelling
+89.0
+2
+2
+Curitiba
+3
+
+0
+0
+*** RESERVADO PARA DISPONIBILIDADES ***
+//
+Hostelling Ingclip
+130.45
+3
+2
+Curitiba
+3
+
+0
+0
+*** RESERVADO PARA DISPONIBILIDADES ***
+//

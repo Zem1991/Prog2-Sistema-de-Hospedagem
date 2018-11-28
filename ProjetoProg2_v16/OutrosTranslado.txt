@@ -1,0 +1,13 @@
+﻿Ônibus para São José dos Pinhais
+1
+1
+0
+2
+1
+9
+45
+4
+30
+2.5
+Horário dos onibus pode ser incerto.
+//

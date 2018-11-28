@@ -1,0 +1,32 @@
+Lagoa dos Brothers
+1
+1
+Os clientes são convidados a ficar de boa na lagoa.
+0
+2
+1
+10
+30
+6
+10.0
+São José dos Pinhais
+40
+0
+Sem restrições.
+//
+Mountainbike
+2
+1
+Travessia de mountainbike pelo mato de Bateias.
+0
+2
+2
+23
+45
+4
+99.0
+Bateias
+8
+3
+Não recomendado para cardíacos.	
+//
